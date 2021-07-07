@@ -1,0 +1,7 @@
+- Variable: Las variables son espacios donde se pueden asignar valores y estos los guardan. En JS no es nesesario declarar 
+que tipo de valor debe guardar la variable ya que se adapta a lo que tu le introduces.
+- Strings: Son cadenas de caracteres dentro de '' que pueden ser guardados en variables y siempre mantiene el orden como los colocaste
+- Funciones: Las funciones son formas que tiene uno para realizar operaciones necesarias sin que molesten en el codigo principal
+con el argumento return las funciones retornan el resultado de la operacion para la que fueron creadas.
+- Declaraciones if: Esta declaracion es una forma para asegurarnos que se cumple una condicion especifica o no
+- Valores booleanos: son true o false y se utilizan para demostrar si algo es verdadero o falso.
