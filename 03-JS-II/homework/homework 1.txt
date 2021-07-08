@@ -1,0 +1,5 @@
+-For: Es un bucle que se va a repetir la cantidad de veces que nosotros especifiquemos en la condicion. Para esto hay que 
+asignarle una variable que sera comparada y luego aumentada en 1.
+-&&: es un operador logico que resulta verdadero si y solo si el argumento de cada lado de este es true. Ej: (1>0 && 2<5) = true 
+-||: es un operador logico que resulta falso si y solo si ambos de los argumentos a cada lado son falsos. Ej: (5<1 || 3>5) = true
+-!: este operador cambia el valor booleano del argumento al cual se lo asigna al opuesto. Ej:!true = false
