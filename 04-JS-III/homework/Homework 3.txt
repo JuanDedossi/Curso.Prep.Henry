@@ -1,0 +1,1 @@
+-Arrays: son un conjunto de elementos los cuales tiene un indice que te dice la posicion que tienen en el array y siempre empieza en 0.
