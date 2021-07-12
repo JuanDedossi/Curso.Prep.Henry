@@ -1,0 +1,2 @@
+-Prototype: Los prototipos son una forma de reutilizar funciones para no tener que escribirlas una y otra vez, asi utiliza menos memoria.
+-Constructors: Sirven para definir la forma que tendra la clase para luego poder crear una instancia de la misma con 'new' y asignarle asi valores a las variables.
