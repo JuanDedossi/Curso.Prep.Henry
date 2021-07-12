@@ -1,0 +1,5 @@
+- Objetos: Son conjuntos de elementos a los cuales se accede mediante una clave en ves de un numero como los strings.
+- Propiedades: son los elementos que se encuentran dentro de un objeto, poseen una clave y su valor.
+- Metodos: los metodos son funciones declaradas dentro de un objeto.
+- bucle for...in: Es un bucle que recorre todos las propiedades de un objeto.
+- notacion de puntos vs notacione de corchetes: en la notacion de corchetes se pueden utilizar variables en cambio en la notacion de puntos en compilador busca la propiedad con el nombre literal que se coloca
