@@ -1,0 +1,1 @@
+- Callback: En javascript se pueden pasar funciones como argumento de otras funciones, eso es un callback.
