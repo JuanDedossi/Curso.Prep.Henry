@@ -6,6 +6,12 @@ img{
     height: 250px;
 
 }
+.contenedor{
+    flex-direction: column;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
 #thirdDiv{
     height: 600px;
     width: 500px;
@@ -18,10 +24,3 @@ img{
     font-size: 18px;
     margin: 50px;
     }
-
-div{
-      width: 400px;
-      margin-left: auto;
-      margin-right: auto;
-}
-
